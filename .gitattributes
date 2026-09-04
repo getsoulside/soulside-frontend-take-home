@@ -1,0 +1,6 @@
+# Keep GitHub's language bar representative of the exercise. The mock API and
+# the lint config are provided scaffolding, not the work being assessed — left
+# in, they make a React/TypeScript starter read as ~86% JavaScript.
+mock-api/** linguist-vendored
+eslint.config.js linguist-vendored
+package-lock.json linguist-generated
