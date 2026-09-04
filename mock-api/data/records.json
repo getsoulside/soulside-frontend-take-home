@@ -1,0 +1,141 @@
+[
+  { "id": "r_001", "kind": "session_note", "clientId": "c_013", "clinicianId": "u_maya", "sessionDate": "2026-09-02T16:00:00Z", "modality": "telehealth",
+    "body": "Client reported worsening low mood over the past two weeks and disclosed passive thoughts of not wanting to be here, without intent or plan. Denied access to means. Reviewed and updated safety plan collaboratively; client agreed to contact crisis line if thoughts intensify. Sleeping 4-5 hrs. Discussed increasing session frequency to weekly. Will follow up mid-week by phone.",
+    "tags": ["safety-plan", "sleep"] },
+
+  { "id": "r_002", "kind": "session_note", "clientId": "c_001", "clinicianId": "u_maya", "sessionDate": "2026-09-01T14:30:00Z", "modality": "in-person",
+    "body": "Good session. Client completed all thought records since last time and identified the catastrophising pattern independently for the first time. Anxiety before presentations down from 8/10 to 4/10. Discussed tapering to biweekly. Client keen but slightly anxious about spacing out. Agreed to try one three-week gap and review.",
+    "tags": ["cbt", "progress"] },
+
+  { "id": "r_003", "kind": "phone_checkin", "clientId": "c_006", "occurredAt": "2026-09-01T18:10:00Z", "durationSec": 480, "outcome": "connected",
+    "transcript": "Called to check in after client cancelled Thursday. Client said he had a difficult weekend, was at a wedding where he drank, first time in four months. Sounded flat. Said he does not want to talk about it on the phone. Agreed to come in Wednesday instead of next week. I said I was glad he picked up." },
+
+  { "id": "r_004", "kind": "session_note", "clientId": "c_002", "clinicianId": "u_maya", "sessionDate": "2026-06-12T15:00:00Z", "modality": "in-person",
+    "body": "Client discussed conflict with brother and ongoing low motivation. PHQ-9 administered: 14, down from 18. Agreed on behavioural activation targets: two walks per week and one social contact. Client mentioned work travel picking up over the summer and possible scheduling difficulty.",
+    "tags": ["phq9", "behavioural-activation"] },
+
+  { "id": "r_005", "kind": "session_note", "clientId": "c_004", "clinicianId": "u_maya", "sessionDate": "2026-08-28T10:00:00+05:30", "modality": "telehealth",
+    "body": "Psychiatrist increased lamotrigine two weeks ago. Client reports mild rash on forearms which he described as probably heat. Advised him to contact prescriber today and not wait for next appointment. Mood currently stable, sleep 7 hrs. I have messaged the prescriber as well. Needs confirmation that he actually called.",
+    "tags": ["medication", "follow-up-required"] },
+
+  { "id": "r_006", "kind": "intake_summary", "client_id": "c_024", "submitted_at": "2026-08-30T11:20:00Z",
+    "answers": { "presenting_concern": "Anxiety since birth of second child, constant worry about infant health, checking on her repeatedly at night", "phq9": 11, "gad7": 16, "free_text": "I know it is probably nothing but I cannot switch it off. My husband thinks I should talk to someone. I have not told my GP." } },
+
+  { "id": "r_007", "kind": "session_note", "clientId": "c_005", "clinicianId": "u_maya", "sessionDate": "2026-08-29T13:00:00Z", "modality": "in-person",
+    "body": "Nightmares increased in frequency this week, four out of seven nights, following an anniversary date. Client used grounding techniques with partial success. We did not attempt imaginal exposure today given her state at the start of session. Reviewed sleep hygiene. She asked whether this means she is going backwards; we discussed non-linear recovery.",
+    "tags": ["ptsd", "nightmares"] },
+
+  { "id": "r_008", "kind": "session_note", "clientId": "c_007", "clinicianId": "u_maya", "sessionDate": "2026-08-26T09:30:00Z", "modality": "telehealth",
+    "body": "Client has met all treatment goals. Attended two work social events and initiated a conversation with a new colleague. SPIN score 18, down from 47 at intake. Discussed discharge planning and relapse prevention. Client would like two more sessions spaced monthly, then discharge. Agreed.",
+    "tags": ["discharge-planning", "progress"] },
+
+  { "id": "r_009", "kind": "session_note", "clientId": "c_010", "clinicianId": "u_maya", "sessionDate": "2026-08-31T15:45:00Z", "modality": "in-person",
+    "body": "EPDS down to 9 from 17. Client sleeping better now that partner is taking the early feed. Reported enjoying the baby for the first time, which she found emotional to say out loud. No thoughts of harm to self or infant, asked directly. Continue fortnightly.",
+    "tags": ["epds", "progress"] },
+
+  { "id": "r_010", "kind": "phone_checkin", "clientId": "c_033", "occurredAt": "2026-08-27T12:00:00Z", "durationSec": 0, "outcome": "no_answer",
+    "transcript": "" },
+
+  { "id": "r_011", "kind": "session_note", "clientId": "c_011", "clinicianId": "u_maya", "sessionDate": null, "modality": "in-person",
+    "body": "ERP hierarchy progressed to step 5, touching door handles without washing for 20 minutes. Client managed 12 minutes and was visibly proud. Y-BOCS not re-administered today. Homework: repeat step 5 daily. Client asked about reducing sertraline; deferred to prescriber.",
+    "tags": ["erp", "ocd"] },
+
+  { "id": "r_012", "kind": "session_note", "clientId": "c_012", "clinicianId": "u_maya", "sessionDate": "2026-09-02T11:00:00Z", "modality": "in-person",
+    "body": "Parent joined for the first 15 minutes. School attendance has dropped to three days this week, down from five. Client says mornings are the worst and he cannot explain why. Mother frustrated and asked whether medication is working. Agreed to a school liaison call and to bring the prescriber into the loop. Sam engaged well once parent left the room.",
+    "tags": ["school-refusal", "parent-session", "follow-up-required"] },
+
+  { "id": "r_013", "kind": "session_note", "clientId": "c_016", "clinicianId": "u_maya", "sessionDate": "2026-08-25T16:30:00Z", "modality": "in-person",
+    "body": "Weight down 2.1kg since last month per client self-report; she declined to be weighed. Restriction has increased around lunch. Client minimised this and became irritable when I reflected the pattern back. Discussed medical monitoring requirement. I need to speak to her GP and possibly the ED service this week. Client agreed reluctantly to a joint call.",
+    "tags": ["eating-disorder", "medical-risk", "follow-up-required"] },
+
+  { "id": "r_014", "kind": "session_note", "clientId": "c_014", "clinicianId": "u_maya", "sessionDate": "2026-08-27 14:00", "modality": "telehealth",
+    "body": "First proper session after intake. Client described workplace stress and difficulty saying no to requests. Assertiveness as a theme. Set a small behavioural experiment: decline one non-essential request this week and record what happens.",
+    "tags": ["assertiveness"] },
+
+  { "id": "r_015", "kind": "session_note", "clientId": "c_027", "clinicianId": "u_maya", "sessionDate": "2026-09-02T09:00:00Z", "modality": "telehealth",
+    "body": "Client reported that the behavioural experiment went better than expected. Also mentioned in passing that she has been having chest tightness in the mornings and has not seen a doctor about it. Advised medical review. Continued work on assertiveness at work; role-played a conversation with her manager.",
+    "tags": ["assertiveness", "medical-referral"] },
+
+  { "id": "r_016", "kind": "session_note", "clientId": "c_017", "clinicianId": "u_maya", "sessionDate": "2026-08-24T17:00:00Z", "modality": "in-person",
+    "body": "Reviewed two incidents of shouting at home this fortnight, down from five. Client used the time-out strategy once successfully. Partner reportedly noticing the difference. Continue anger log. Client asked whether his father having been the same means he cannot change.",
+    "tags": ["anger", "progress"] },
+
+  { "id": "r_017", "kind": "session_note", "clientId": "c_019", "clinicianId": "u_maya", "sessionDate": "2026-08-20 10:30", "modality": "telehealth",
+    "body": "Low mood persistent. PHQ-9 unchanged at 16 across three administrations now. Client attending sessions reliably but not completing between-session work. Discussed openly whether this modality is the right fit and whether a referral for a different approach would serve him better. He wants to continue. Agreed to review in four weeks.",
+    "tags": ["phq9", "treatment-review"] },
+
+  { "id": "r_018", "kind": "session_note", "clientId": "c_020", "clinicianId": "u_maya", "sessionDate": "2026-08-31T12:15:00Z", "modality": "in-person",
+    "body": "Client travelled to the session by bus alone for the first time in eight months. Significant milestone. Panic did occur, rated 6/10, and she stayed on the bus. We spent the session consolidating this rather than progressing the hierarchy. Homework: repeat the same journey twice this week.",
+    "tags": ["agoraphobia", "exposure", "progress"] },
+
+  { "id": "r_019", "kind": "session_note", "clientId": "c_015", "clinicianId": "u_maya", "sessionDate": "2026-08-19T14:00:00Z", "modality": "in-person",
+    "body": null, "tags": [] },
+
+  { "id": "r_020", "kind": "session_note", "clientId": "c_023", "clinicianId": "u_maya", "sessionDate": "2026-08-29T11:30:00+05:30", "modality": "in-person",
+    "body": "Seven months abstinent. Client has taken on a sponsor role at his meeting and finds it grounding. Discussed the risk of over-committing. Work and relationship both stable. Agreed to move to monthly sessions. Client comfortable with this.",
+    "tags": ["recovery", "progress", "step-down"] },
+
+  { "id": "r_021", "kind": "intake_summary", "client_id": "c_003", "submitted_at": "2026-06-16T08:45:00Z",
+    "answers": { "presenting_concern": "Panic attacks, three to four per week, started after a car accident in March", "phq9": 8, "gad7": 15, "free_text": "I keep thinking I am having a heart attack. The A&E doctors said it was panic. I have started avoiding driving." } },
+
+  { "id": "r_022", "kind": "session_note", "clientId": "c_000", "clinicianId": "u_maya", "sessionDate": "2026-08-15T10:00:00Z", "modality": "in-person",
+    "body": "test test please ignore", "tags": [] },
+
+  { "id": "r_023", "kind": "session_note", "clientId": "c_025", "clinicianId": "u_maya", "sessionDate": "2026-08-21T15:30:00Z", "modality": "telehealth",
+    "body": "Client disclosed he stopped taking his antidepressant three weeks ago without telling the prescriber, because he felt flat. Reports low mood returning, poor concentration, and irritability at work. No SI on direct questioning. Strongly encouraged contact with prescriber before making further changes. He was non-committal. Needs chasing.",
+    "tags": ["medication", "follow-up-required"] },
+
+  { "id": "r_024", "kind": "session_note", "clientId": "c_026", "clinicianId": "u_maya", "sessionDate": "2026-08-30T09:00:00Z", "modality": "telehealth",
+    "body": "Burnout symptoms improving since she reduced to four days at work. Sleeping through most nights. Still finds it hard to be unproductive on the fifth day without guilt. Values work planned for next session. No longer meets threshold on the burnout inventory.",
+    "tags": ["burnout", "progress"] },
+
+  { "id": "r_025", "kind": "phone_checkin", "clientId": "c_028", "occurredAt": "2026-08-28T16:45:00Z", "durationSec": 300, "outcome": "connected",
+    "transcript": "Brief check-in. Client said the week had been fine, worry manageable, using the worry postponement technique about half the time. Asked to move his Tuesday slot to Thursdays going forward. Told him I would check the diary." },
+
+  { "id": "r_026", "kind": "session_note", "clientId": "c_031", "clinicianId": "u_maya", "sessionDate": "", "modality": "in-person",
+    "body": "Client has not self-harmed in eleven weeks, longest interval since we started. Discussed urges last Friday after an argument, which she rode out using the TIPP skill. Reviewed her crisis card and confirmed contacts are current. She asked whether she still needs the crisis card if she is doing well; we agreed to keep it.",
+    "tags": ["dbt", "self-harm", "progress"] },
+
+  { "id": "r_027", "kind": "session_note", "clientId": "c_032", "clinicianId": "u_maya", "sessionDate": "2026-08-26T13:30:00+05:30", "modality": "telehealth",
+    "body": "Adjustment to relocation continuing. Client has joined a local running club and made one acquaintance. Mood better than at intake. Sessions could reasonably reduce in frequency; client would prefer to keep weekly for now given how recent the move is. Agreed to revisit in three weeks.",
+    "tags": ["adjustment", "progress"] },
+
+  { "id": "r_028", "kind": "session_note", "clientId": "c_035", "clinicianId": "u_maya", "sessionDate": "2026-08-18 09:15", "modality": "in-person",
+    "body": "Pain flare this fortnight has knocked mood considerably. Client cancelled her physio appointments and has been in bed most days. PHQ-9 up to 17 from 11. Pacing plan not being followed, which she acknowledged. Discussed the pain-inactivity-mood loop again. She was tearful and said she is tired of managing.",
+    "tags": ["chronic-pain", "phq9", "deterioration"] },
+
+  { "id": "r_029", "kind": "intake_summary", "client_id": "c_034", "submitted_at": "2026-07-18T14:00:00Z",
+    "answers": { "presenting_concern": "General anxiety, difficulty sleeping before work days", "phq9": 6, "gad7": 12, "free_text": "Not sure I need therapy but my partner suggested it. Happy to try a few sessions." } },
+
+  { "id": "r_030", "kind": "session_note", "clientId": "c_101", "clinicianId": "u_devi", "sessionDate": "2026-08-29T10:00:00Z", "modality": "in-person",
+    "body": "Client reported improved mood following medication adjustment. Discussed return-to-work planning with occupational health. Next session in two weeks.",
+    "tags": [] },
+
+  { "id": "r_007", "kind": "session_note", "clientId": "c_005", "clinicianId": "u_maya", "sessionDate": "2026-07-15T13:00:00Z", "modality": "in-person",
+    "body": "Reviewed trauma timeline. Client tolerated the discussion better than anticipated and asked to begin imaginal work at the next session. Psychoeducation on the window of tolerance revisited.",
+    "tags": ["ptsd"] },
+
+  { "id": "r_032", "kind": "phone_checkin", "clientId": "c_104", "occurredAt": "2026-08-30T14:20:00Z", "durationSec": 120, "outcome": "connected",
+    "transcript": "Confirmed appointment time for next week. No clinical content discussed." },
+
+  { "id": "r_033", "kind": "session_note", "clientId": "c_018", "clinicianId": "u_maya", "sessionDate": "2026-07-02T11:00:00Z", "modality": "telehealth",
+    "body": "Final session before client's planned break. She is travelling for three months for work and will resume in the autumn. Symptoms well controlled. Agreed she will email on her return. Relapse prevention plan documented and shared.",
+    "tags": ["pause", "relapse-prevention"] },
+
+  { "id": "r_034", "kind": "session_note", "clientId": "", "clinicianId": "", "sessionDate": "2026-08-22T00:00:00Z", "modality": "in-person",
+    "body": "   ", "tags": [] },
+
+  { "id": "r_035", "kind": "intake_summary", "client_id": "c_036", "submitted_at": "2026-02-20T10:30:00Z",
+    "answers": { "presenting_concern": "Referred by community mental health team for monitoring following first episode. Currently stable on medication.", "phq9": 4, "gad7": 5, "free_text": "" } },
+
+  { "id": "r_036", "kind": "session_note", "clientId": "c_008", "clinicianId": "u_maya", "sessionDate": "2026-08-31T10:00:00Z", "modality": "in-person",
+    "body": "Four months since his mother's death. Client described the first week where grief felt survivable rather than constant. Still avoiding her house. We discussed a graded plan for going through her belongings with his sister. He was ambivalent but did not refuse.",
+    "tags": ["grief", "progress"] },
+
+  { "id": "r_037", "kind": "intake_summary", "client_id": "c_101", "submitted_at": "2026-05-04T09:00:00Z",
+    "answers": { "presenting_concern": "Low mood following redundancy", "phq9": 15, "gad7": 9, "free_text": "" } },
+
+  { "id": "r_038", "kind": "session_note", "clientId": "c_029", "clinicianId": "u_maya", "sessionDate": "2026-08-25T14:45:00Z", "modality": "in-person",
+    "body": "Six weeks post-bereavement. Client is functioning at work but describes evenings as unbearable. Sleep initiation poor. Declined the bereavement group referral for now, said she is not ready to be in a room of sad people. Normalised the range of grief responses. Agreed to weekly for the next month.",
+    "tags": ["grief", "sleep"] }
+]
